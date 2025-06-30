@@ -1,0 +1,24 @@
+﻿  anhsang.cpp
+  main.cpp
+D:\KTDH\BTL\main.cpp(326,22): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+  Generating Code...
+dovat.obj : error LNK2019: unresolved external symbol glutSolidSphere referenced in function "void __cdecl drawLamp(struct Position,float,struct Color)" (?drawLamp@@YAXUPosition@@MUColor@@@Z)
+main.obj : error LNK2001: unresolved external symbol glutSolidSphere
+dovat.obj : error LNK2019: unresolved external symbol glutSolidCube referenced in function "void __cdecl drawCube(struct Position,struct Size)" (?drawCube@@YAXUPosition@@USize@@@Z)
+main.obj : error LNK2019: unresolved external symbol glutInit referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutInitDisplayMode referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutInitWindowSize referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutMainLoop referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutCreateWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutPostRedisplay referenced in function "void __cdecl idle(void)" (?idle@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol glutSwapBuffers referenced in function "void __cdecl drawRoom(void)" (?drawRoom@@YAXXZ)
+main.obj : error LNK2019: unresolved external symbol glutDisplayFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutReshapeFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutIdleFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutSpecialFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutKeyboardUpFunc referenced in function main
+main.obj : error LNK2019: unresolved external symbol glutSpecialUpFunc referenced in function main
+main.obj : error LNK2001: unresolved external symbol "float windowAngle" (?windowAngle@@3MA)
+main.obj : error LNK2001: unresolved external symbol "bool windowOpening" (?windowOpening@@3_NA)
+glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\KTDH\BTL\x64\Debug\BTL.exe : fatal error LNK1120: 17 unresolved externals
