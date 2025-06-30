@@ -1,2 +1,26 @@
-﻿  xe.cpp
+﻿  anh.cpp
+  banghe.cpp
+  bong.cpp
+C:\Users\ADMIN\Documents\Downloads\ktdh-master\ktdh-master\anh.cpp(12,16): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Downloads\ktdh-master\ktdh-master\anh.cpp(12,16): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Downloads\ktdh-master\ktdh-master\anh.cpp(12,16): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+  car.cpp
+  cua.cpp
+  dieuhoa.cpp
+  dovat.cpp
+  gau.cpp
+  ketu.cpp
+  khunganh.cpp
+  latdat.cpp
+  main.cpp
+C:\Users\ADMIN\Documents\Downloads\ktdh-master\ktdh-master\main.cpp(84,16): warning C4566: character represented by universal-character-name '\u26A0' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Downloads\ktdh-master\ktdh-master\main.cpp(84,16): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Downloads\ktdh-master\ktdh-master\main.cpp(84,16): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\Downloads\ktdh-master\ktdh-master\main.cpp(84,16): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+  thamcpp.cpp
+  thungrac.cpp
+  tructhang.cpp
+  xe.cpp
+  Generating Code...
+  LINK : C:\Users\ADMIN\Documents\Downloads\ktdh-master\ktdh-master\Debug\BTL.exe not found or not built by the last incremental link; performing full link
   BTL.vcxproj -> C:\Users\ADMIN\Documents\Downloads\ktdh-master\ktdh-master\Debug\BTL.exe
