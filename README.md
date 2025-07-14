@@ -91,4 +91,8 @@ PhongDoChoi3D/
 
 ---
 
+## 6. Liên hệ
+Email: quannguyen04082004@gmail.com
+SDT: 0325994526
+
 🎉 **Chúc bạn trải nghiệm vui vẻ với không gian đồ chơi 3D!**
