@@ -14,7 +14,7 @@ PhongDoChoi3D/
 ├── ADMIN/ # (Tuỳ chọn) Giao diện hoặc điều khiển
 ├── css/ # Giao diện (nếu có tích hợp HTML/WebView)
 ├── x64/Debug/ # Thư mục build tự động (nên bỏ qua Git)
-├── .vs/ # File cấu hình của Visual Studio (nên .gitignore)
+├── .vs/ # File cấu hình Visual Studio (nên .gitignore)
 
 ├── Code Sources/
 │ ├── main.cpp # File chính khởi chạy chương trình
@@ -37,12 +37,6 @@ PhongDoChoi3D/
 ├── BTL.vcxproj # File cấu hình project
 ├── BTL.vcxproj.filters
 └── README.md # Tài liệu mô tả dự án
-
-markdown
-Sao chép
-Chỉnh sửa
-
----
 
 ## 3. Cài Đặt
 ### 3.1 Cài Visual Studio
